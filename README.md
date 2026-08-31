@@ -1,29 +1,53 @@
+@'
 <div align="center">
 
-# 👋 Hi, I'm Karthik Polasi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:00D4FF,100:00FFA3&text=KARTHIK%20POLASI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20DATA%20%7C%20FULL%20STACK&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-### AI/ML Engineer • Data Engineering • Data Analytics • Full-Stack Development
+<br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Generative+AI;Data+Engineering+%7C+Analytics;Full-Stack+Development;Turning+Data+Into+Decisions" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Data+Engineer;Data+Analyst;Full+Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems" />
 
-<p>
-  <a href="https://github.com/karthikpolasi1818-cmyk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/karthik-polasi-70b40a333">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<br><br>
+
+<a href="https://github.com/karthikpolasi1818-cmyk">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/karthik-polasi-70b40a333">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/karthikpolasi1818-cmyk/karthik-portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:karthikpolasi1818@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=karthikpolasi1818-cmyk&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 💎 OVERVIEW
 
-I'm **Karthik Polasi**, a developer focused on building intelligent, data-driven and scalable software systems.
+<div align="center">
+
+### AI / ML • DATA ENGINEERING • DATA ANALYTICS • FULL-STACK DEVELOPMENT
+
+</div>
+
+I am **Karthik Polasi**, a developer focused on building intelligent, data-driven and scalable software systems.
 
 My interests include:
 
@@ -34,204 +58,343 @@ My interests include:
 - 🏗️ Data Engineering
 - 🌐 Full-Stack Development
 - ⚙️ Backend Engineering
+- ☁️ Cloud & Deployment
 
-I enjoy taking problems from:
+I enjoy transforming complex problems into practical software systems using **data, automation, machine learning and modern application architecture**.
+
+### My Development Flow
 
 ```text
-Raw Data
-   ↓
-Data Processing
-   ↓
-Machine Learning / AI
-   ↓
-Intelligent Analysis
-   ↓
-Application
-   ↓
-Deployment
-⚔️ Technical Arsenal
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" /> </p>
-🤖 AI & Machine Learning
-<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> </p>
+                    REAL-WORLD PROBLEM
+                           │
+                           ▼
+                    DATA COLLECTION
+                           │
+                           ▼
+                    DATA PROCESSING
+                           │
+                           ▼
+                 ANALYSIS / INTELLIGENCE
+                           │
+                           ▼
+                    APPLICATION
+                           │
+                           ▼
+                       DEPLOYMENT
+⚡ TECHNICAL ARSENAL
+<div align="center">
+💻 Programming
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=5"/>
 
-Machine Learning • Deep Learning • Generative AI • LLMs • RAG • AI Agents
+<br><br>
 
-NLP • Computer Vision • Feature Engineering • Model Evaluation
+Python • C++ • Java • JavaScript • TypeScript • SQL
 
-📊 Data Analytics
-<p> <img src="https://skillicons.dev/icons?i=python,postgresql" /> </p>
+<br><br>
 
-Python • Pandas • NumPy • Matplotlib • SQL • PostgreSQL • Power BI
+🤖 AI / MACHINE LEARNING
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5"/>
 
-EDA • Statistics • Data Visualization • Business Intelligence
+<br><br>
 
-🏗️ Data Engineering
+Machine Learning • Deep Learning
 
-ETL • ELT • Data Pipelines • Data Cleaning
+Generative AI • LLMs • RAG • AI Agents
 
-Data Transformation • API Data Ingestion • SQL • Data Warehousing
+NLP • Computer Vision
 
-🌐 Full-Stack Development
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flutter,mongodb,postgresql" /> </p>
-☁️ DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" /> </p>
-🚀 Featured Projects
+<br><br>
+
+📊 DATA & ANALYTICS
+<img src="https://skillicons.dev/icons?i=python,postgresql&perline=2"/>
+
+<br><br>
+
+Pandas • NumPy • Matplotlib
+
+SQL • PostgreSQL • Power BI
+
+EDA • Statistics • Data Visualization
+
+<br><br>
+
+🌐 FULL STACK
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flutter,mongodb,postgresql&perline=8"/>
+
+<br><br>
+
+React • Node.js • Express
+
+FastAPI • Django • Flutter
+
+MongoDB • PostgreSQL
+
+<br><br>
+
+🏗️ DATA ENGINEERING
+
+ETL • ELT • Data Pipelines
+
+Data Cleaning • Data Transformation
+
+API Data Ingestion • SQL
+
+<br><br>
+
+☁️ TOOLS & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman&perline=7"/> </div>
+🚀 FEATURED PROJECTS
 🧠 NEXUS AI
-Autonomous AI-Powered Data Analysis Platform
+AI-Powered Data Analysis Platform
 
-NEXUS AI is an AI-powered platform designed to automate data analysis workflows.
+An AI-powered platform focused on automating data analysis workflows.
 
 Workflow
-Dataset
-   ↓
-Data Understanding
-   ↓
-Data Cleaning
-   ↓
-Exploratory Analysis
-   ↓
-Statistical Analysis
-   ↓
-Visualization
-   ↓
-AI Reasoning
-   ↓
-Insights
-   ↓
-Report
-Focus
+DATASET
+   │
+   ▼
+DATA UNDERSTANDING
+   │
+   ▼
+DATA PROCESSING
+   │
+   ▼
+EXPLORATORY ANALYSIS
+   │
+   ▼
+AI ANALYSIS
+   │
+   ▼
+VISUALIZATION
+   │
+   ▼
+INSIGHTS
+   │
+   ▼
+REPORT
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/nexus-ai"> <img src="https://img.shields.io/badge/VIEW%20NEXUS%20AI-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+💰 MERIDIAN CAPITAL DASHBOARD
+Institutional Portfolio Analytics Dashboard
 
-AI • Machine Learning • Generative AI • Data Analytics • Python
+A production-grade institutional portfolio analytics dashboard built with Next.js, React, TypeScript, Storybook, Jest and Docker.
 
-🔗 View NEXUS AI
+Stack
 
-🔬 ORION Ω
-Autonomous AI Research Scientist
+Next.js • React • TypeScript
 
-An experimental AI research system designed around autonomous scientific investigation.
+Storybook • Jest • Docker
 
-Research Pipeline
-Research Problem
-       ↓
-Hypothesis Generation
-       ↓
-Experiment Design
-       ↓
-Experiment Execution
-       ↓
-Result Analysis
-       ↓
-Self Evaluation
-       ↓
-Evidence
-       ↓
-Research Report
-Focus
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/meridian-capital-dashboard"> <img src="https://img.shields.io/badge/VIEW%20MERIDIAN-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🏦 SMARTLOAN PLATFORM
+Smart Loan Platform
 
-Generative AI • Machine Learning • AI Agents • Research Automation
+A TypeScript-based application focused on building a modern loan/financial platform.
 
-📊 Sales Analytics Dashboard
-End-to-End Business Analytics Platform
+Technology
 
-A data analytics project combining Python, SQL, PostgreSQL and Power BI to transform business data into actionable insights.
+TypeScript • Web Development
 
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/smartloan-platform"> <img src="https://img.shields.io/badge/VIEW%20SMARTLOAN-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+📊 SALES ANALYTICS DASHBOARD
+End-to-End Sales Analytics Dashboard
+
+End-to-end sales analytics dashboard built using SQL, PostgreSQL, Python and Power BI.
+
+Workflow
+RAW SALES DATA
+      │
+      ▼
+DATA CLEANING
+      │
+      ▼
+SQL / POSTGRESQL
+      │
+      ▼
+PYTHON ANALYSIS
+      │
+      ▼
+POWER BI
+      │
+      ▼
+BUSINESS INSIGHTS
 Technology
 
 Python • SQL • PostgreSQL • Power BI
 
-🔗 View Project
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/Sales-Analytics-Dashboard"> <img src="https://img.shields.io/badge/VIEW%20SALES%20ANALYTICS-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🎓 COLLEGE WEBSITE VERIFIER AI
+AI-Based College Website Verification
 
-📰 NewsScraper
-Automated Web Data Collection System
-
-Python-based web scraping and data processing project.
+A Python-based project focused on automated college website verification.
 
 Technology
 
-Python • Web Scraping • Data Processing • Automation
+Python • AI • Automation • Data Processing
 
-🔗 View Project
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/CollegeWebsiteVerifierAI"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🌐 KARTHIK PORTFOLIO
+Personal Developer Portfolio
 
-💳 Real-Time Fraud Detection
-Machine Learning Fraud Detection System
+A JavaScript-based portfolio project showcasing projects, skills and developer information.
 
-A machine-learning project focused on identifying potentially fraudulent transactions.
+Technology
 
-Transaction
-     ↓
-Data Validation
-     ↓
-Feature Engineering
-     ↓
-ML Model
-     ↓
-Fraud Probability
-     ↓
-Decision
-Focus
+JavaScript • Web Development
 
-Machine Learning • Classification • Feature Engineering • Data Analytics
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/karthik-portfolio"> <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+💻 PORTFOLIO
+Web Portfolio Project
 
-📈 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikpolasi1818-cmyk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpolasi1818-cmyk&layout=compact&theme=tokyonight&hide_border=true" width="42%"> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=karthikpolasi1818-cmyk&theme=tokyonight&hide_border=true" width="70%"> </div>
-📊 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikpolasi1818-cmyk&theme=tokyo-night&hide_border=true&area=true" width="100%"> </div>
-🧩 Problem Solving
+Another JavaScript-based portfolio implementation.
 
-I continuously improve my problem-solving skills through:
+Technology
 
-Data Structures & Algorithms
-Competitive Programming
-SQL
-Machine Learning
-System Design
-Data Analysis
-🎯 2026 Goals
-🚀 Build production-grade AI systems
-🤖 Develop autonomous AI agents
-🧠 Strengthen Machine Learning and Deep Learning
-📊 Master advanced Data Engineering
-🏗️ Build scalable data pipelines
-☁️ Deploy AI applications to the cloud
-🔬 Explore autonomous AI research
-🌎 Build impactful open-source software
-📚 Currently Learning
-Generative AI
-LLM Applications
-AI Agents
-RAG Systems
-Advanced Machine Learning
-Data Engineering
-System Design
-Cloud Architecture
-Production AI
-💡 Engineering Philosophy
+JavaScript • Web Development
 
-Don't just build projects. Build systems that solve problems.
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/portfolio"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+⚛️ POPX REACT
+React Application
 
-Good Architecture
-       +
-Clean Code
-       +
-Reliable Data
-       +
-Intelligent Models
-       +
-Scalable Engineering
-       =
-Real-World Impact
+A JavaScript-based React project focused on frontend application development.
+
+Technology
+
+React • JavaScript
+
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/popx-react"> <img src="https://img.shields.io/badge/VIEW%20POPX%20REACT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🚀 STARTUP SCRAPER
+Startup Data Scraping Project
+
+A Python-based project for startup-related web data collection and processing.
+
+Technology
+
+Python • Web Scraping • Automation
+
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/StartupScraper"> <img src="https://img.shields.io/badge/VIEW%20STARTUP%20SCRAPER-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+📰 NEWS SCRAPER
+Automated News Data Collection
+
+A Python-based web scraping project for collecting and processing news data.
+
+Technology
+
+Python • Web Scraping • Data Processing
+
+Repository
+<a href="https://github.com/karthikpolasi1818-cmyk/NewsScraper"> <img src="https://img.shields.io/badge/VIEW%20NEWS%20SCRAPER-00D9FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+📊 PERFORMANCE METRICS
 <div align="center">
-🤝 Let's Connect
-<a href="https://github.com/karthikpolasi1818-cmyk"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/karthik-polasi-70b40a333"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+🧠 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=karthikpolasi1818-cmyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="70%"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=karthikpolasi1818-cmyk&style=for-the-badge&label=PROFILE+VIEWS">
+💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpolasi1818-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%"/>
+
+<br><br>
+
+🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=karthikpolasi1818-cmyk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/> </div>
+📈 CONTRIBUTION ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikpolasi1818-cmyk&bg_color=0D1117&color=00D9FF&line=00FFA3&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div>
+🧩 LEETCODE
+<div align="center"> <a href="https://leetcode.com/u/karthik3114/"> <img src="https://leetcard.jacoblin.cool/karthik3114?theme=dark&font=Baloo&ext=heatmap" width="80%"/> </a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/karthik3114/"> <img src="https://img.shields.io/badge/VIEW%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </div>
+🧠 PROBLEM SOLVING
+<div align="center">
+DATA STRUCTURES & ALGORITHMS
+            +
+            SQL
+            +
+     MACHINE LEARNING
+            +
+       DATA ANALYSIS
+            +
+       SYSTEM DESIGN
+            +
+   SOFTWARE ENGINEERING
+</div>
+🎯 CURRENT FOCUS
+<div align="center">
+             ARTIFICIAL INTELLIGENCE
+                       ↓
+                MACHINE LEARNING
+                       ↓
+                 GENERATIVE AI
+                       ↓
+                  AI AGENTS
+                       ↓
+                DATA ENGINEERING
+                       ↓
+                 DATA ANALYTICS
+                       ↓
+              FULL-STACK SYSTEMS
+                       ↓
+                CLOUD DEPLOYMENT
+</div>
+🏆 2026 OBJECTIVES
+🚀 Build production-grade AI applications
+🤖 Develop autonomous AI systems
+🧠 Strengthen Machine Learning and Deep Learning
+✨ Build Generative AI applications
+📊 Advance Data Engineering skills
+🏗️ Build scalable data pipelines
+☁️ Deploy applications to the cloud
+🔬 Explore AI research and automation
+💼 Build industry-level software
+🌎 Contribute to open-source
+💡 ENGINEERING PHILOSOPHY
+<div align="center">
+"Don't just build projects. Build systems that solve problems."
+<br>
+             GOOD ARCHITECTURE
+                    +
+                CLEAN CODE
+                    +
+                QUALITY DATA
+                    +
+              INTELLIGENT AI
+                    +
+          RELIABLE ENGINEERING
+                    │
+                    ▼
+             REAL-WORLD IMPACT
+</div>
+🌐 CONNECT WITH ME
+<div align="center"> <a href="https://github.com/karthikpolasi1818-cmyk"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+ 
+
+<a href="https://www.linkedin.com/in/karthik-polasi-70b40a333"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+ 
+
+<a href="https://leetcode.com/u/karthik3114/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a>
+
+ 
+
+<a href="mailto:karthikpolasi1818@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=karthikpolasi1818-cmyk&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 ⭐ Thanks for visiting my profile!
-</div> ```
+🚀 Keep Building • Keep Learning • Keep Creating
+</div>
