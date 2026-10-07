@@ -22,7 +22,7 @@
 
 ## About Me
 
-B.Tech Electronics and Communication Engineering student at **Mahindra University** with hands-on experience in **Python, SQL, ETL, data analytics and machine learning**.
+B.Tech Electronics and Communication Engineering student with hands-on experience in **Python, SQL, ETL, data analytics and machine learning**.
 
 I enjoy building automated data workflows, data validation pipelines, KPI reporting systems and analytics solutions that transform raw data into actionable business insights.
 
@@ -136,18 +136,6 @@ Automated lead extraction and processing system.
 ## Currently Learning
 
 `Advanced SQL` · `Data Engineering` · `Machine Learning` · `Generative AI` · `AI Automation`
-
----
-
-## Education
-
-**Mahindra University**  
-B.Tech — Electronics and Communication Engineering  
-**Aug 2023 – Present**
-
-**Tirumala Junior College**  
-Intermediate — MPC  
-**Jun 2021 – May 2023**
 
 ---
 
