@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/karthik3114/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
-&nbsp;
 <a href="mailto:karthikpolasi1818@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -30,7 +26,7 @@ B.Tech Electronics and Communication Engineering student at **Mahindra Universit
 
 I enjoy building automated data workflows, data validation pipelines, KPI reporting systems and analytics solutions that transform raw data into actionable business insights.
 
-Currently focused on **Data Analytics, Data Engineering, Machine Learning and AI-driven automation**.
+My interests include **Data Analytics, Data Engineering, Machine Learning and AI-driven automation**.
 
 ---
 
@@ -39,7 +35,7 @@ Currently focused on **Data Analytics, Data Engineering, Machine Learning and AI
 | Area | Technologies |
 |---|---|
 | **Programming** | Python, SQL |
-| **Data & ETL** | ETL, Data Cleaning, Data Validation, EDA |
+| **Data & ETL** | ETL, Data Cleaning, Data Validation, Exploratory Data Analysis |
 | **Databases** | PostgreSQL, SQLAlchemy |
 | **Machine Learning** | Scikit-learn, Feature Engineering, ML Prediction |
 | **Analytics** | KPI Reporting, Anomaly Detection, Predictive Analytics |
@@ -52,6 +48,7 @@ Currently focused on **Data Analytics, Data Engineering, Machine Learning and AI
 ## Experience
 
 ### Data Analyst Intern — Venture Launcher
+
 **Jun 2026 – Aug 2026 · Remote**
 
 - Built automated Python workflows for data extraction, scraping and processing.
@@ -64,14 +61,17 @@ Currently focused on **Data Analytics, Data Engineering, Machine Learning and AI
 
 ## Featured Projects
 
-### EROI — Enterprise Revenue & Operations Intelligence Platform
+### NEXUS Analytics Studio
 
-**Python · Pandas · SQL · Streamlit · Power BI**
+**Python · Streamlit · Pandas · NumPy · Plotly · Scikit-learn**
 
-Enterprise analytics platform for transforming business transaction data into revenue, profit, margin, order-volume and operational KPIs.
+Enterprise analytics platform designed to transform raw business data into interactive insights and decision-support dashboards.
 
-- Automated data processing and KPI analysis workflows.
-- Built interactive dashboards for business performance monitoring.
+- Automated data loading, validation and data-quality analysis.
+- Built interactive analytics dashboards for business datasets.
+- Implemented KPI analysis, exploratory data analysis and correlation analysis.
+- Added anomaly detection and analytical workflows.
+- Designed reusable modules for business-focused data analysis.
 
 ---
 
@@ -84,6 +84,19 @@ AI-powered analytics platform designed to transform raw business data into actio
 - Automated data validation and KPI reporting.
 - Implemented anomaly detection.
 - Developed predictive analytics workflows.
+- Created interactive analytics dashboards.
+
+---
+
+### EROI — Enterprise Revenue & Operations Intelligence Platform
+
+**Python · Pandas · SQL · Streamlit · Power BI**
+
+Enterprise analytics platform for transforming business transaction data into revenue, profit, margin, order-volume and operational KPIs.
+
+- Automated data processing and KPI analysis workflows.
+- Built interactive dashboards for business performance monitoring.
+- Analyzed operational and financial performance metrics.
 
 ---
 
@@ -95,6 +108,7 @@ End-to-end sales analytics solution for large-scale business data.
 
 - Built ETL pipelines processing **1M+ records**.
 - Developed SQL-based KPI analysis.
+- Used PostgreSQL and SQLAlchemy for data processing.
 - Created Power BI dashboards for business insights.
 
 ---
@@ -106,8 +120,8 @@ End-to-end sales analytics solution for large-scale business data.
 Automated lead extraction and processing system.
 
 - Automated lead extraction from public sources.
-- Implemented validation and processing workflows.
-- Automated data export.
+- Implemented lead validation and processing workflows.
+- Automated data export for further analysis.
 
 ---
 
@@ -125,6 +139,18 @@ Automated lead extraction and processing system.
 
 ---
 
+## Education
+
+**Mahindra University**  
+B.Tech — Electronics and Communication Engineering  
+**Aug 2023 – Present**
+
+**Tirumala Junior College**  
+Intermediate — MPC  
+**Jun 2021 – May 2023**
+
+---
+
 <div align="center">
 
 ### Let's Connect
@@ -132,7 +158,7 @@ Automated lead extraction and processing system.
 <a href="https://www.linkedin.com/in/karthik-polasi-70b40a333/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:karthikpolasi1818@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
