@@ -1,160 +1,144 @@
-﻿# Hi, I'm Karthik Polasi 👋
+﻿<div align="center">
+
+# Karthik Polasi
 
 ### Data Analyst | Python | SQL | ETL | Machine Learning
 
-B.Tech Electronics and Communication Engineering student at **Mahindra University**, interested in **Data Analytics, Data Engineering, Machine Learning and AI-driven automation**.
+<a href="https://github.com/karthikpolasi1818-cmyk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/karthik-polasi-70b40a333/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/karthik3114/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:karthikpolasi1818@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-I enjoy transforming raw data into meaningful insights through data extraction, cleaning, validation, analysis, visualization and predictive analytics.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in Electronics and Communication Engineering
-- 📊 Interested in Data Analytics and Data Engineering
-- 🐍 Strong focus on Python and SQL
-- 📈 Experience with Power BI and Streamlit
-- 🤖 Interested in Machine Learning and AI-driven automation
-- 🔄 Interested in ETL and automated data workflows
-- 💼 Data Analyst Intern at Venture Launcher
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-`Python` `SQL`
-
-### Data Engineering & ETL
-`ETL` `Data Cleaning` `Data Validation` `EDA`
-
-`PostgreSQL` `SQLAlchemy` `KPI Reporting`
-
-### AI / Machine Learning
-`Scikit-learn` `Feature Engineering`
-
-`ML Prediction` `Anomaly Detection`
-
-`Predictive Analytics`
-
-### Automation & Data Extraction
-`Requests` `Beautiful Soup` `Web Scraping`
-
-`API-based Data Extraction`
-
-### Visualization
-`Power BI` `Streamlit` `Excel`
-
-### Tools
-`Git` `GitHub` `VS Code` `Jupyter`
+</div>
 
 ---
 
-## 💼 Experience
+## About Me
+
+B.Tech Electronics and Communication Engineering student at **Mahindra University** with hands-on experience in **Python, SQL, ETL, data analytics and machine learning**.
+
+I enjoy building automated data workflows, data validation pipelines, KPI reporting systems and analytics solutions that transform raw data into actionable business insights.
+
+Currently focused on **Data Analytics, Data Engineering, Machine Learning and AI-driven automation**.
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, SQL |
+| **Data & ETL** | ETL, Data Cleaning, Data Validation, EDA |
+| **Databases** | PostgreSQL, SQLAlchemy |
+| **Machine Learning** | Scikit-learn, Feature Engineering, ML Prediction |
+| **Analytics** | KPI Reporting, Anomaly Detection, Predictive Analytics |
+| **Data Extraction** | Requests, Beautiful Soup, Web Scraping, APIs |
+| **Visualization** | Power BI, Streamlit, Excel |
+| **Tools** | Git, GitHub, VS Code, Jupyter |
+
+---
+
+## Experience
 
 ### Data Analyst Intern — Venture Launcher
-
-**Jun 2026 – Aug 2026 | Remote**
+**Jun 2026 – Aug 2026 · Remote**
 
 - Built automated Python workflows for data extraction, scraping and processing.
 - Cleaned and validated datasets using Python and SQL.
-- Applied data-quality checks to improve reliability of datasets.
+- Applied data-quality checks to improve dataset reliability.
 - Performed exploratory data analysis.
 - Built KPI reports and Power BI dashboards.
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
 ### EROI — Enterprise Revenue & Operations Intelligence Platform
 
-**Python | Pandas | SQL | Streamlit | Power BI**
+**Python · Pandas · SQL · Streamlit · Power BI**
 
-Enterprise analytics platform designed to transform business transaction data into revenue, profit, margin, order-volume and operational KPIs.
+Enterprise analytics platform for transforming business transaction data into revenue, profit, margin, order-volume and operational KPIs.
 
-- Built automated data processing and KPI analysis workflows.
-- Developed interactive dashboards for business performance monitoring.
-
-[View Repository →](https://github.com/karthikpolasi1818-cmyk/EROI-Enterprise-Intelligence-Platform)
+- Automated data processing and KPI analysis workflows.
+- Built interactive dashboards for business performance monitoring.
 
 ---
 
 ### NEXUS AI — Enterprise Intelligence Platform
 
-**Python | Pandas | Scikit-learn | SQL | Streamlit | Power BI**
+**Python · Pandas · Scikit-learn · SQL · Streamlit · Power BI**
 
-AI-powered analytics platform focused on turning raw business data into actionable insights.
+AI-powered analytics platform designed to transform raw business data into actionable insights.
 
-- Automated data validation.
-- Built KPI reporting workflows.
+- Automated data validation and KPI reporting.
 - Implemented anomaly detection.
-- Developed predictive analytics capabilities.
-
-[View Repository →](https://github.com/karthikpolasi1818-cmyk/nexus-ai)
+- Developed predictive analytics workflows.
 
 ---
 
 ### End-to-End Sales Analytics Platform
 
-**Python | PostgreSQL | SQL | SQLAlchemy | Power BI**
+**Python · PostgreSQL · SQL · SQLAlchemy · Power BI**
 
-Sales analytics platform designed to process and analyze large-scale business data.
+End-to-end sales analytics solution for large-scale business data.
 
-- Built ETL pipelines processing 1M+ records.
+- Built ETL pipelines processing **1M+ records**.
 - Developed SQL-based KPI analysis.
 - Created Power BI dashboards for business insights.
-
-[View Repository →](https://github.com/karthikpolasi1818-cmyk/Sales-Analytics-Dashboard)
 
 ---
 
 ### Startup Lead Finder
 
-**Python | Beautiful Soup | Automation**
+**Python · Beautiful Soup · Automation**
 
 Automated lead extraction and processing system.
 
 - Automated lead extraction from public sources.
 - Implemented validation and processing workflows.
-- Automated export of collected data.
-
-[View Repository →](https://github.com/karthikpolasi1818-cmyk/StartupScraper)
+- Automated data export.
 
 ---
 
-## 📚 Certifications & Training
+## Certifications
 
-- **Gen AI — Infosys** | Jun–Jul 2025
-- **IoT-Network Specialist — Reliance Foundation** | Nov–Dec 2025
-- **JavaScript for Beginners — Udemy** | Sep 2025
-
----
-
-## 📈 Currently Learning
-
-- Advanced SQL
-- Data Engineering
-- Machine Learning
-- Generative AI
-- AI-driven Automation
-- Data Analytics
+- **Gen AI — Infosys** · Jun–Jul 2025
+- **IoT-Network Specialist — Reliance Foundation** · Nov–Dec 2025
+- **JavaScript for Beginners — Udemy** · Sep 2025
 
 ---
 
-## 📫 Connect With Me
+## Currently Learning
 
-**GitHub:**  
-https://github.com/karthikpolasi1818-cmyk
-
-**LinkedIn:**  
-https://www.linkedin.com/in/karthik-polasi-70b40a333/
-
-**LeetCode:**  
-https://leetcode.com/u/karthik3114/
-
-**Email:**  
-karthikpolasi1818@gmail.com
+`Advanced SQL` · `Data Engineering` · `Machine Learning` · `Generative AI` · `AI Automation`
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/karthik-polasi-70b40a333/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karthikpolasi1818@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Turning data into insights, and insights into solutions.</sub>
+
+</div>
