@@ -1,81 +1,94 @@
-﻿<div align="center">
-
 # Karthik Polasi
 
-### Data Analyst | Python | SQL | ETL | Machine Learning
+### Data Analyst | Python • SQL • PostgreSQL • ETL • Power BI
 
-Building data-driven solutions with Python, SQL and analytics.
+I build data analytics solutions that turn raw data into structured, reliable, and actionable business insights.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/karthikpolasi1818-cmyk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/karthik-polasi-70b40a333/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:karthikpolasi1818@gmail.com)
+My work focuses on **data processing, ETL workflows, data quality, business KPI analysis, interactive dashboards, and applied machine learning**. I enjoy building practical projects that combine Python, SQL, databases, and visualization to solve real analytical problems.
 
-</div>
+**Core focus:** Data Analytics · Data Engineering · Business Intelligence
 
----
-
-## About Me
-
-I'm interested in building practical analytics solutions that turn raw data into actionable business insights.
-
-- Data analytics and business intelligence
-- Automated ETL and data-quality workflows
-- Interactive dashboards and KPI reporting
-- Machine learning and AI-driven automation
+[LinkedIn](https://linkedin.com/in/karthik-polasi-70b40a333) · [GitHub Repositories](https://github.com/karthikpolasi1818-cmyk?tab=repositories) · [Email](mailto:karthikpolasi1818@gmail.com)
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Featured Project
-
-### NEXUS Analytics Studio
-
-An analytics platform focused on transforming business data into useful insights.
-
-- Data exploration and KPI analysis
-- Data validation and quality checks
-- Interactive analytics dashboards
-- Business-focused reporting and analysis
-
-Explore my repositories: [GitHub Projects](https://github.com/karthikpolasi1818-cmyk?tab=repositories)
-
-### NEXUS AI
-
-An enterprise intelligence project focused on analytics, anomaly detection and predictive workflows.
-
-### EROI — Enterprise Revenue & Operations Intelligence
-
-A business analytics project focused on revenue, profit, margins and operational KPIs.
-
-### Sales Analytics Platform
-
-An end-to-end sales analytics project using Python, SQL, PostgreSQL and Power BI.
-
-### Startup Lead Finder
-
-A Python automation project for extracting and processing lead data from public sources.
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data Processing | Pandas, NumPy, data cleaning, validation, EDA |
+| Databases & ETL | PostgreSQL, SQLAlchemy, ETL pipelines |
+| Business Intelligence | Power BI, KPI reporting, Excel |
+| Visualization | Streamlit, Plotly |
+| Machine Learning | Scikit-learn, anomaly detection, predictive analytics |
+| Data Extraction | Requests, Beautiful Soup, API integration |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
-## Experience
+## Featured Projects
 
-**Data Analyst Intern — Venture Launcher**
+### 1. End-to-End Sales Analytics Platform
 
-- Automated data extraction and processing workflows using Python.
-- Performed data cleaning, validation and exploratory analysis.
-- Worked on KPI reporting and Power BI dashboards.
+**Python · SQL · PostgreSQL · SQLAlchemy · Power BI**
+
+An analytics project focused on transforming sales data into structured datasets and business performance insights.
+
+- Develop data processing and ETL workflows.
+- Use SQL and PostgreSQL for data querying and analysis.
+- Organize sales KPIs for business performance reporting.
+- Present analytical findings through Power BI dashboards.
+
+[View Repository →](https://github.com/karthikpolasi1818-cmyk/Sales-Analytics-Dashboard)
+
+### 2. EROI — Enterprise Revenue & Operations Intelligence
+
+**Python · Pandas · SQL · Streamlit · Power BI**
+
+A business analytics platform focused on revenue and operational performance.
+
+- Analyze revenue, profit, margins, and order-related metrics.
+- Transform transaction data into business KPIs.
+- Present operational and financial insights through dashboards.
+
+[View Repository →](https://github.com/karthikpolasi1818-cmyk/EROI-Enterprise-Intelligence-Platform)
+
+### 3. Nexus Analytics Studio
+
+**Python · Pandas · Streamlit · Plotly · Scikit-learn**
+
+A multi-domain analytics application for exploring business datasets and presenting insights.
+
+- Support data loading, validation, and exploratory analysis.
+- Analyze KPIs, relationships, and data patterns.
+- Provide interactive visualizations and analytical workflows.
+
+[View Repository →](https://github.com/karthikpolasi1818-cmyk/nexus-analytics-studio)
+
+### 4. Startup Lead Finder
+
+**Python · Web Scraping · Data Processing**
+
+A data extraction project focused on collecting and organizing information from public sources.
+
+- Automate extraction and processing workflows.
+- Validate and organize collected records.
+- Export structured data for further analysis.
+
+[Explore My Repositories →](https://github.com/karthikpolasi1818-cmyk?tab=repositories)
+
+---
+
+## Professional Experience
+
+**Data Analyst Intern — Venture Launcher**  
+*June 2026 – August 2026 · Remote*
+
+- Built Python-based data extraction and processing workflows.
+- Cleaned and validated datasets using Python and SQL.
+- Performed exploratory data analysis and data-quality checks.
+- Prepared KPI reports and Power BI dashboards.
 
 ---
 
@@ -87,18 +100,17 @@ A Python automation project for extracting and processing lead data from public 
 
 ---
 
-## GitHub Contribution Snake
+## Current Learning Focus
 
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/karthikpolasi1818-cmyk/karthikpolasi1818-cmyk/output/github-contribution-grid-snake.svg)
-
-</div>
+`Advanced SQL` · `Data Engineering` · `Business Intelligence` · `Machine Learning`
 
 ---
 
-<div align="center">
+## Let's Connect
 
-**Turning data into insights, and insights into solutions.**
+I'm interested in opportunities where I can apply Python, SQL, data analytics, and data engineering skills to practical business problems.
 
-</div>
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/karthik-polasi-70b40a333)
+- **Email:** [karthikpolasi1818@gmail.com](mailto:karthikpolasi1818@gmail.com)
+
+*Building practical data solutions, one project at a time.*
