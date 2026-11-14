@@ -1,150 +1,145 @@
-Hi, I'm Karthik Polasi 👋
 
-Data Analyst | Python · SQL · PostgreSQL · ETL · Power BI
+<div align="center">
 
-I build data-driven solutions that transform raw data into actionable business insights. My work spans data extraction, cleaning, SQL analytics, ETL workflows, business intelligence dashboards, and applied machine learning.
+# POLASI KARTHIK
 
-Core focus: Data Analytics · Business Intelligence · Data Engineering
+### Data Analyst | Frontend Developer | Python | SQL | React.js | Next.js
 
-"LinkedIn" (https://www.linkedin.com/in/karthik-polasi-70b40a333) · "GitHub" (https://github.com/karthikpolasi1818-cmyk) · "Email" (mailto:karthikpolasi1818@gmail.com)
+Building intelligent analytics platforms and modern, user-focused web applications.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikpolasi1818-cmyk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-polasi-70b40a333/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikpolasi1818@gmail.com)
 
-👨‍💻 About Me
-
-- Analyze and transform data using Python, Pandas, and SQL.
-- Build data-processing and ETL workflows with PostgreSQL and SQLAlchemy.
-- Explore business performance through KPIs, exploratory data analysis, and visualization.
-- Develop interactive dashboards and analytical applications using Power BI, Streamlit, and Plotly.
-- Apply machine learning and process mining to explore anomalies, patterns, and operational bottlenecks.
-- Interested in solving real-world business problems through reliable, data-driven analysis.
+</div>
 
 ---
 
-🛠️ Technical Skills
+## 👨‍💻 About Me
 
-Area| Skills & Technologies
-Programming| Python, SQL
-Data Analysis| Pandas, NumPy, EDA, Statistical Analysis
-SQL Analytics| Joins, CTEs, Window Functions, Data Validation
-Databases| PostgreSQL, SQLAlchemy
-Data Engineering| ETL Pipelines, API Extraction, Web Scraping
-Machine Learning| Scikit-learn, Feature Engineering, Anomaly Detection, Predictive Analytics
-Business Intelligence| Power BI, Excel, KPI Reporting
-Visualization| Plotly, Streamlit
-Process Mining| PM4Py
-Tools| Git, GitHub, VS Code, Jupyter Notebook
+I'm a developer interested in building data-driven solutions, intelligent analytics platforms, and responsive web applications.
+
+My work combines **Data Analytics, Frontend Development, and AI-powered applications**, with an emphasis on transforming complex requirements into practical software solutions.
+
+- Developing data analytics and business intelligence applications.
+- Building responsive web interfaces using React.js and Next.js.
+- Working with Python, SQL, ETL workflows, and data processing.
+- Designing interactive dashboards and data visualization experiences.
+- Exploring machine learning, predictive analytics, and AI automation.
+- Developing reusable components and structured web applications.
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python, SQL, JavaScript (ES6+), TypeScript |
+| Frontend Development | HTML5, CSS3, React.js, Next.js |
+| UI Development | Responsive Design, Flexbox, CSS Grid, DOM Manipulation |
+| Data Analytics | Pandas, NumPy, EDA, Data Cleaning, Data Validation |
+| Data Engineering | ETL, Data Extraction, Data Processing, Web Scraping |
+| Databases | PostgreSQL, SQLAlchemy |
+| Data Visualization | Power BI, Streamlit, Excel, Interactive Charts |
+| Machine Learning | Scikit-learn, Feature Engineering, Predictive Analytics |
+| Tools & Platforms | Git, GitHub, VS Code, Jupyter Notebook, npm, Vercel |
+
+## 🚀 Featured Projects
+
+### 1. NEXUS Analytics Studio
+**Business Intelligence & Analytics Platform**
+
+*Python | Streamlit | Data Analytics | Data Visualization*
+
+- Developed an interactive analytics platform for exploring structured datasets.
+- Implemented data profiling, cleaning, and quality assessment.
+- Designed KPI analysis and business intelligence workflows.
+- Organized analytics capabilities across Sales, Marketing, Finance, HR, Operations, and other business domains.
+- Built interactive visualizations to communicate business insights.
+
+### 2. NEXUS AI — Enterprise Intelligence Platform
+**Autonomous Analytics & Predictive Intelligence**
+
+*Python | Pandas | Streamlit | Machine Learning*
+
+- Developed an analytics application for automated dataset investigation.
+- Implemented missing-value and duplicate detection.
+- Built KPI analysis, correlation analysis, and anomaly detection workflows.
+- Integrated predictive analytics and business performance insights.
+- Designed an interactive interface for data exploration and reporting.
+
+### 3. MarketMind AI
+**Financial Intelligence & Market Analytics Dashboard**
+
+*React.js | TypeScript | Next.js | Python | FastAPI*
+
+- Developing a financial intelligence platform focused on Indian NSE/BSE and global markets.
+- Designing dashboard interfaces for market information and stock watchlists.
+- Building structured frontend components for financial data presentation.
+- Exploring AI-assisted financial analysis and market intelligence.
+
+### 4. NEXUS Analytics Studio — Website
+**Frontend Web Application**
+
+*Next.js | React.js | TypeScript | HTML5 | CSS3*
+
+- Developed a modern frontend website for an analytics platform.
+- Organized reusable UI components and application layouts.
+- Designed business-focused interfaces for multiple analytics categories.
+- Structured the application using Next.js and TypeScript.
+
+### 5. End-to-End Sales Analytics Platform
+**Data Engineering & Business Intelligence**
+
+*Python | SQL | PostgreSQL | Power BI*
+
+- Working with structured sales data and SQL-based analysis.
+- Building data preparation and transformation workflows.
+- Exploring revenue, profit, and business performance KPIs.
+- Designing reporting and visualization workflows.
+
+## 💼 Professional Experience
+
+**Data Analyst Intern — Venture Launcher**
+
+*June 2026 – August 2026*
+
+- Worked on data collection, extraction, and enrichment workflows.
+- Performed data cleaning, validation, and quality verification.
+- Used Python, SQL, and Excel for structured data processing.
+- Worked on web scraping and large-scale dataset preparation.
+- Collected and verified business information from official websites and public sources.
+- Supported structured reporting and documentation activities.
+
+## 📜 Certifications
+
+- Generative AI — Infosys
+- IoT-Network Specialist — Reliance Foundation
+- JavaScript for Beginners — Udemy
+
+## 🎯 Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Frontend & Web Application Development
+- Data Engineering & ETL Pipelines
+- Machine Learning & Predictive Analytics
+- AI-Powered Applications
+- UI Engineering & Dashboard Development
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/karthikpolasi1818-cmyk/karthikpolasi1818-cmyk/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-💼 Professional Experience
+<div align="center">
 
-Data Analyst Intern — Venture Launcher
+### Turning Data into Insights. Turning Ideas into Applications.
 
-June 2026 – August 2026 · Remote
+**Data Analytics • Frontend Engineering • Intelligent Applications**
 
-- Developed Python-based data extraction, web scraping, and processing workflows.
-- Cleaned and validated datasets using Python and SQL.
-- Performed exploratory data analysis to investigate patterns and trends.
-- Prepared KPI reports and developed Power BI dashboards to support business analysis.
+[GitHub](https://github.com/karthikpolasi1818-cmyk) · [LinkedIn](https://www.linkedin.com/in/karthik-polasi-70b40a333/) · [Email](mailto:karthikpolasi1818@gmail.com)
 
----
-
-🚀 Featured Projects
-
-1. End-to-End Sales Analytics Platform
-
-Python · SQL · PostgreSQL · SQLAlchemy · Power BI
-
-Built an analytical workflow for transforming sales data into structured business intelligence.
-
-- Developed ETL workflows to extract, transform, validate, and load sales data into PostgreSQL.
-- Created SQL analytical queries for sales metrics and business KPIs.
-- Designed Power BI dashboards to explore sales performance.
-- Designed the workflow to handle more than one million records.
-
-Focus: ETL · SQL Analytics · Sales KPIs · Business Intelligence
-
-2. ATLAS Ω — Business Process Intelligence
-
-Python · PM4Py · PostgreSQL · Streamlit · Plotly
-
-Developed a process-mining application to investigate how business processes execute and where they can improve.
-
-- Analyzed event logs to discover process flows and process variants.
-- Explored bottlenecks, delays, and rework patterns.
-- Built interactive visualizations for investigating process performance.
-- Incorporated workflow-improvement simulations to evaluate potential changes.
-
-Focus: Process Mining · Root-Cause Exploration · Operational Analytics
-
-3. Nexus Analytics Studio
-
-Python · Pandas · Scikit-learn · SQL · Streamlit
-
-Developed a multi-domain analytics application for exploring datasets and generating analytical insights.
-
-- Implemented data cleaning, validation, KPI calculation, and exploratory analysis.
-- Integrated anomaly detection and predictive analytics capabilities.
-- Created interactive visualizations to communicate patterns and trends.
-
-Focus: Automated EDA · Data Quality · Machine Learning
-
-4. EROI — Enterprise Revenue & Operations Intelligence
-
-Python · Pandas · SQL · Streamlit · Power BI
-
-Developed an analytics platform focused on understanding revenue and operational performance.
-
-- Analyzed revenue, profit, margins, order volumes, and operational KPIs.
-- Automated data-processing and metric-generation workflows.
-- Presented business performance through interactive dashboards.
-
-Focus: Revenue Analytics · Profitability · Performance Reporting
-
----
-
-🎓 Certifications
-
-- Generative AI — Infosys | June–July 2025
-- JavaScript for Beginners — Udemy | September 2025
-
----
-
-🔄 My Data Analytics Workflow
-
-Data Sources
-    ↓
-Extraction — Python, APIs, Web Scraping
-    ↓
-Cleaning & Validation — Pandas, SQL
-    ↓
-Transformation & Loading — ETL, PostgreSQL
-    ↓
-Exploratory Analysis — Statistics, EDA
-    ↓
-Analytics — KPIs, Anomaly Detection, Predictive Models
-    ↓
-Visualization — Power BI, Streamlit, Plotly
-    ↓
-Business Insights & Reporting
-
----
-
-📊 GitHub Overview
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=karthikpolasi1818-cmyk&show_icons=true&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpolasi1818-cmyk&layout=compact&hide_border=true)
-
----
-
-🤝 Let's Connect
-
-I'm interested in opportunities in Data Analytics, Business Intelligence, and Data Engineering, where I can apply Python, SQL, ETL, and analytical thinking to real-world problems.
-
-- "LinkedIn" (https://www.linkedin.com/in/karthik-polasi-70b40a333)
-- "GitHub" (https://github.com/karthikpolasi1818-cmyk)
-- "Email" (mailto:karthikpolasi1818@gmail.com)
-
-Turning data into insights, and insights into better decisions.
+</div>
